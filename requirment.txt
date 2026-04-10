@@ -1,0 +1,5 @@
+pandas 
+nupmy
+scikit-learn
+re
+nltk
